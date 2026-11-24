@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riemannzetaftn.github.io/bib.arithmeticae/sitemap.xml
